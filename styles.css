@@ -1,0 +1,130 @@
+/* Global Styles 
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #27f1fb
+}
+
+/* Navigation Styles 
+
+.navbar {
+    background-color: #b9d5f1 !important; /* Override Bootstrap default 
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: xx-large;
+}
+ 
+.navbar-nav .nav-link {
+    font-weight: bold;
+}
+
+/* Section Styles 
+
+section {
+    padding: 20px 0;
+}
+
+/* Brand Page Styles 
+
+#brand-details {
+    text-align: center;
+}
+
+#brand-details img {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+/* Contact Section Styles 
+
+#contact p {
+    margin-bottom: 5px;
+}
+
+
+*/
+
+
+/*  GPT Shade -------------------------------------------------------------------------------------------------------------------------
+
+/* Global Styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; /* Main Background Color */
+    color: #333333; /* Text Color */
+}
+
+/* Navigation Styles */
+
+.navbar {
+    background-color: #ffff45; /* Accent Yellow for Navbar */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+    color: #333333; /* Text Color */
+}
+
+/* Section Styles */
+
+section {
+    padding: 20px 0;
+}
+
+/* Brand Page Styles */
+
+#brands {
+    background-color: #ffff45; /* Accent Yellow for Brand Section */
+}
+
+.brand {
+    background-color: #FFFFFF; /* White Background for Brand Cards */
+    border: 1px solid #ffff45; /* Accent Yellow Border */
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.brand img {
+    max-width: 100%;
+}
+
+.brand h2 {
+    color: #333333; /* Text Color */
+}
+
+/* Contact Section Styles */
+
+#contact {
+    background-color: #ffff45; /* Accent Yellow for Contact Section */
+    padding: 20px 0;
+}
+
+/* Footer Styles (if applicable) */
+
+footer {
+    background-color: #FFFFFF; /* White Background for Footer */
+    color: #333333; /* Text Color */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation Styles */
+
+.navbar {
+    background-color: #beb314 !important; /* Light Yellow Background */
+}
+
+
+/*GPT Shde end-------------------------------------------------------------------------------------------------------------------------
